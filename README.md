@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on **android Development**
 
+- 🌱 I’m currently learning **DSA**
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/-nikhil-dahiya/**
 
