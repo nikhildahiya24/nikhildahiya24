@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **android Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **DSA**
 
