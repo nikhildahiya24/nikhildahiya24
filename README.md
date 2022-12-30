@@ -18,7 +18,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/-nikhil-dahiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/_nikhildahiya"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
-><a href="https://leetcode.com/nikhil_dahiya_/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FiAmAveneger&logo=leetcode&logoColor=yellow"/></a>
+<a href="https://leetcode.com/nikhil_dahiya_/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikhil_dahiya_&logo=leetcode&logoColor=yellow"/></a>
 
 </div>
 
