@@ -1,35 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nikhil Dahiya</h1>
-<h3 align="center">A Passionate Full Stack Web developer from India</h3>
+# Hi there, I'm Nikhil Dahiya 👋
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966">
+## 🚀 About Me
+I'm a passionate Cybersecurity Master's student based in Berlin, specializing in Python, network security, and cloud security. I love building intelligent tools to detect and mitigate cyber threats.
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 Currently working on **Network Traffic Analyzer** and **Security Log Analyzer**
+- 🌱 Learning advanced incident response and cloud security architectures
+- 💬 Ask me about Python, cybersecurity, SIEM, or GCP
+- ⚡ Fun fact: I built a virtual assistant named Jarvis using NLP and ML!
 
-- 🌱 I’m currently learning  **more in DSA**
+---
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+## 🛠️ Skills & Tools
+| Cybersecurity        | Programming         | Cloud & Databases      | Tools & OS         |
+|---------------------|---------------------|-----------------------|--------------------|
+| SIEM, IDS/IPS       | Python              | Google Cloud Platform  | Wireshark, Kali Linux |
+| Vulnerability Assessment | SQL, noSQL        | BigQuery               | Burp Suite          |
+| Incident Response   | Natural Language Processing | Docker, Git           | Windows, Linux      |
 
-- 💬 Ask me about **Java**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/-nikhil-dahiya/**
+## 📈 GitHub Stats
 
-## Find me around the web 🌍
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildahiya2407&show_icons=true&theme=radical)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/-nikhil-dahiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/_nikhildahiya_"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
-<a href="https://leetcode.com/nikhil_dahiya_/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikhil_dahiya_&logo=leetcode&logoColor=yellow"/></a>
+---
 
-</div>
+## 📂 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_nikhildahiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nikhildahiya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-nikhil-dahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-nikhil-dahiya" height="30" width="40" /></a>
-<a href="https://instagram.com/_nikhil.dahiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nikhil.dahiya_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhil_dahiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_dahiya_" height="30" width="40" /></a>
-</p>
+### Network Traffic Analyzer
+- 🛠️ Python & Scapy  
+- 📊 Real-time packet capture & anomaly detection to identify suspicious network behavior.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhildahiya24&show_icons=true&locale=en&layout=compact" alt="nikhildahiya24" /></p>
+### Security Log Analyzer
+- 🛠️ Python & Regex  
+- 🔔 Parses and normalizes security logs to prioritize real threats and reduce false positives.
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-nikhil-dahiya)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhildahiya2407@gmail.com)
+
+---
+
+Thanks for stopping by! Let’s secure the future together 🔐✨
