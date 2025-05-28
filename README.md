@@ -21,7 +21,7 @@ I'm a passionate Cybersecurity Master's student based in Berlin, specializing in
 
 ## 📈 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildahiya2407&show_icons=true&theme=radical)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildahiya24&show_icons=true&theme=radical)
 
 ---
 
