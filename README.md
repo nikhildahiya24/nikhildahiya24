@@ -19,10 +19,10 @@ I'm a passionate Cybersecurity Master's student based in Berlin, specializing in
 
 ---
 
-## 📈 LeetCode
+### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/nikhil_dahiya_/?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/nikhil_dahiya_?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
