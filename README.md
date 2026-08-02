@@ -19,9 +19,11 @@ I'm a passionate Cybersecurity Master's student based in Berlin, specializing in
 
 ---
 
-## 📈 GitHub Stats
+## 📈 LeetCode
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildahiya24&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/nikhil_dahiya_/?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
