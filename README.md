@@ -6,7 +6,6 @@
   <a href="https://linkedin.com/in/-nikhil-dahiya"><img src="https://img.shields.io/badge/LinkedIn-0A0F1A?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" /></a>
   <a href="mailto:nikhildahiya2407@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1A?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email" /></a>
   <a href="https://leetcode.com/nikhil_dahiya_"><img src="https://img.shields.io/badge/LeetCode-0A0F1A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nikhildahiya24&style=for-the-badge&color=00b37a&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <br />
