@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="404" viewBox="0 0 860 404">
+  <rect x="0.5" y="0.5" width="859" height="403" rx="14" fill="#0A0F1A" stroke="#1F3A4F"/>
+  <path d="M0.5 14.5A14 14 0 0 1 14.5 0.5H845.5A14 14 0 0 1 859.5 14.5V40H0.5Z" fill="#111A2B"/>
+  <circle cx="26" cy="20" r="6.5" fill="#FF5F57"/><circle cx="48" cy="20" r="6.5" fill="#FEBC2E"/><circle cx="70" cy="20" r="6.5" fill="#28C840"/>
+  <text x="430" y="25" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">nikhil@soc: ~ — zsh</text>
+  <style>
+    .ln { animation: show .35s ease-out both; }
+    .cur { animation: show .1s both, blink 1s steps(1) infinite; }
+    @keyframes show { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15">
+        <text class="ln" style="animation-delay:0.40s" x="30" y="78"><tspan fill="#00FF9C">nikhil@soc</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00D4FF">~</tspan><tspan fill="#7D8590">$ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
+    <text class="ln" style="animation-delay:0.95s" x="30" y="108"><tspan fill="#A5B4C3">Nikhil Dahiya — M.Sc. Cybersecurity student @ Berlin, DE</tspan></text>
+    <text class="ln" style="animation-delay:1.50s" x="30" y="138"><tspan fill="#00FF9C">nikhil@soc</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00D4FF">~</tspan><tspan fill="#7D8590">$ </tspan><tspan fill="#E6EDF3">cat focus.txt</tspan></text>
+    <text class="ln" style="animation-delay:2.05s" x="30" y="168"><tspan fill="#A5B4C3">SIEM · threat detection · incident response · cloud security</tspan></text>
+    <text class="ln" style="animation-delay:2.60s" x="30" y="198"><tspan fill="#00FF9C">nikhil@soc</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00D4FF">~</tspan><tspan fill="#7D8590">$ </tspan><tspan fill="#E6EDF3">ls ./currently-building</tspan></text>
+    <text class="ln" style="animation-delay:3.15s" x="30" y="228"><tspan fill="#A5B4C3">Sentinel-SOC-Lab/   Terraform + KQL detections mapped to MITRE ATT&amp;CK</tspan></text>
+    <text class="ln" style="animation-delay:3.70s" x="30" y="258"><tspan fill="#00FF9C">nikhil@soc</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00D4FF">~</tspan><tspan fill="#7D8590">$ </tspan><tspan fill="#E6EDF3">cat learning.log</tspan></text>
+    <text class="ln" style="animation-delay:4.25s" x="30" y="288"><tspan fill="#A5B4C3">advanced IR playbooks · cloud security architecture · automation</tspan></text>
+    <text class="ln" style="animation-delay:4.80s" x="30" y="318"><tspan fill="#00FF9C">nikhil@soc</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00D4FF">~</tspan><tspan fill="#7D8590">$ </tspan><tspan fill="#E6EDF3">echo $FUN_FACT</tspan></text>
+    <text class="ln" style="animation-delay:5.35s" x="30" y="348"><tspan fill="#A5B4C3">I built "Jarvis", a voice assistant powered by NLP + ML 🤖</tspan></text>
+    <text class="ln" style="animation-delay:5.90s" x="30" y="378"><tspan fill="#00FF9C">nikhil@soc</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00D4FF">~</tspan><tspan fill="#7D8590">$ </tspan></text>
+    <rect class="cur" style="animation-delay:5.90s,5.90s" x="152" y="364" width="9" height="18" fill="#00FF9C"/>
+  </g>
+</svg>
